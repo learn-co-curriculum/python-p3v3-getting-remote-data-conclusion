@@ -1,32 +1,24 @@
 # Getting Remote Data Conclusion
 
-## Learning Goals
-
-- Learning Goal 1
-- Learning Goal 2
-
-## Introduction
-
-A 1-2 sentence summary of what will be covered.
-
-## Topic 1
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-## Topic 2
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+---
 
 ## Conclusion
 
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
+We've demonstrated that applications can give us access to remote data via APIs.
+
+APIs give us selective access to the parts of a codebase developers want to
+expose, which can make that codebase easier to work with.
+
+We should now understand how APIs can be used, how to find an API endpoint, and
+how to send a request for data to an API. With the ability to leverage remote
+data in our applications, we can increase the functionality of our applications
+and even save time!
+
+---
 
 ## Resources
 
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+- [GET - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+- [HTTP methods - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [Python JSON](https://docs.python.org/3/library/json.html)
